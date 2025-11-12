@@ -1,8 +1,8 @@
-pandas
-matplotlib
-seaborn
-plotly
-streamlit
+Import pandas
+Import matplotlib
+Import seaborn
+Import plotly
+Import streamlit
 
 
 
