@@ -2,7 +2,7 @@
 # Streamlit Dashboard - University Data Analysis
 
 import pandas 
-import matplotlib.pyplot 
+import matplotlib
 import seaborn 
 import streamlit 
 
