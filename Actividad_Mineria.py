@@ -1,3 +1,11 @@
+pandas
+matplotlib
+seaborn
+plotly
+streamlit
+
+
+
 # -*- coding: utf-8 -*-
 """Copia de Te damos la bienvenida a Colaboratory
 
