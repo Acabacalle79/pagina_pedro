@@ -8,7 +8,7 @@ Original file is located at
 """
 
 #Cargamos librerias
-!pip install pandas matplotlib seaborn
+pip install pandas matplotlib seaborn
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
