@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 # Streamlit Dashboard - University Data Analysis
 
-import pandas as pd
-import matplotlib as plt
-import seaborn as sns
-import streamlit as st
+import pandas 
+import matplotlib 
+import seaborn 
+import streamlit 
 
 # ------------------------------------
 # CONFIGURACIÓN DE LA APP
